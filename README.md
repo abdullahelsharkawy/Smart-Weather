@@ -18,11 +18,11 @@ Smart Weather & Clothing Advisor is a Python application that retrieves real-tim
 
 '''
 Smart Weather & clothing Advisor PROJECT    
-┣ Advisor.py
-┣ main.py
-┣ README.md
-┣ requirments.txt
-┗ weather.py
+┣ Advisor.py /
+┣ main.py /
+┣ README.md /
+┣ requirments.txt /
+┗ weather.py 
 
 '''
   
