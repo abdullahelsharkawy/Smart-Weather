@@ -9,14 +9,6 @@ App_name = os.getenv("App_name","Abdullah Project")      # fallback value
 Openweather_API = os.getenv("API_key")
 
 
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     print(f"Application Name : {App_name}")
     if Openweather_API:
