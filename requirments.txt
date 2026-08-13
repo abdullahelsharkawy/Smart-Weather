@@ -1,0 +1,9 @@
+
+
+## Using Libraries:
+ 1- requares 
+ 2- python-dotenv
+ 3- os
+ 3- rich
+
+
