@@ -1,6 +1,6 @@
-# Project Name
+## Project Name
 
-Smart Weather & Clothing Advisor
+Smart Weather
 
 ## Description
 
